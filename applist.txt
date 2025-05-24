@@ -1,0 +1,14 @@
+##OS Apps
+#arch base
+
+zsh
+dotnet-sdk-9.0
+impala
+mc
+bluetui
+nano
+Ly
+
+#coustum repo
+
+##Extra

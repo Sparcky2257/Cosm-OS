@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "gszJNAPnpcA=",
+  "success": false,
+  "projectFilePath": "/run/media/vr/NEW PARTITI/Cosm-OS/aqua/aqua.csproj",
+  "expectedPackageFiles": [
+    "/home/vr/.nuget/packages/microsoft.netcore.app.ref/9.0.4/microsoft.netcore.app.ref.9.0.4.nupkg.sha512",
+    "/home/vr/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.arch-x64. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Microsoft.NETCore.App.Host.arch-x64",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
